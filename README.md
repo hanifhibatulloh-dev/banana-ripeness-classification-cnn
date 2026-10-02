@@ -61,6 +61,26 @@ The model achieved:
 
 ---
 
+## Results Visualization
+
+### Confusion Matrix
+
+![Confusion Matrix](results/confusion_matrix_test.png)
+
+### Training Accuracy
+
+![Accuracy Curve](results/grafik_accuracy.png)
+
+### Training Loss
+
+![Loss Curve](results/grafik_loss.png)
+
+### Prediction Example
+
+![Prediction Example](results/prediction_example.jpeg)
+
+---
+
 ## Technologies
 
 - Python
@@ -74,3 +94,15 @@ The model achieved:
 ---
 
 ## Project Structure
+
+```text
+banana-ripeness-classification-cnn/
+
+├── banana_ripeness_classification.ipynb
+├── results/
+│   ├── confusion_matrix_test.png
+│   ├── grafik_accuracy.png
+│   ├── grafik_loss.png
+│   └── prediction_example.jpeg
+├── requirements.txt
+└── README.md
