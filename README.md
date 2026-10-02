@@ -2,16 +2,20 @@
 
 ## Author
 
-Muhammad Hanif Hibatulloh
+Muhammad Hanif Hibatulloh  
 
 Computer Science Student  
-Universitas Jenderal Achmad Yani
+Universitas Jenderal Achmad Yani  
+
+---
 
 ## Overview
 
 This project implements a Convolutional Neural Network (CNN) based image classification model to identify banana ripeness levels using digital images.
 
-The objective of this project is to develop an image-based classification system capable of recognizing different maturity stages of bananas.
+The objective of this project is to develop an image classification system capable of recognizing different maturity stages of bananas using deep learning approaches.
+
+---
 
 ## Classification Classes
 
@@ -21,6 +25,8 @@ The model classifies banana images into four categories:
 - Semi-ripe
 - Ripe
 - Overripe
+
+---
 
 ## Methodology
 
@@ -32,22 +38,28 @@ The project workflow consists of:
 4. Model training
 5. Model evaluation
 
+---
+
 ## Model Architecture
 
-The classification model uses a Convolutional Neural Network (CNN) consisting of:
+The classification model uses a Convolutional Neural Network (CNN) architecture consisting of:
 
-- Convolution Layer
+- Convolutional Layers
 - Activation Function
-- Pooling Layer
+- Pooling Layers
 - Feature Extraction
-- Fully Connected Layer
+- Fully Connected Layers
 - Softmax Classification
+
+---
 
 ## Performance
 
 The model achieved:
 
-- Test Accuracy: 95.12%
+- Test Accuracy: **95.12%**
+
+---
 
 ## Technologies
 
@@ -57,5 +69,8 @@ The model achieved:
 - NumPy
 - OpenCV
 - Matplotlib
+- Scikit-learn
+
+---
 
 ## Project Structure
