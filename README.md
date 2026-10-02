@@ -28,6 +28,18 @@ The model classifies banana images into four categories:
 
 ---
 
+## Dataset
+
+The dataset used in this project was obtained from a publicly available dataset published on Mendeley Data.
+
+Dataset Source:
+
+https://data.mendeley.com/datasets/ptfscwtnyz/2
+
+The dataset contains banana images categorized based on different ripeness levels and is used for training and evaluating the Convolutional Neural Network (CNN) classification model.
+
+---
+
 ## Methodology
 
 The project workflow consists of:
