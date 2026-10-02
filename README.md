@@ -1,3 +1,4 @@
+# Banana Ripeness Classification Using CNN
 
 ## Author
 
@@ -5,8 +6,6 @@ Muhammad Hanif Hibatulloh
 
 Computer Science Student  
 Universitas Jenderal Achmad Yani
-
-# Banana Ripeness Classification Using CNN
 
 ## Overview
 
